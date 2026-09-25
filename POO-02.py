@@ -7,6 +7,7 @@ class Personaje:
 # Creación de objetos (Instanciación)
 p1 = Personaje("Aragorn", 100)
 p2 = Personaje("Legolas", 80)
+p3 = Personaje("Gandalf", 200)
 
 # Acceso directo a los atributos
 print(f"Personaje 1: {p1.nombre} | Vida: {p1.vida}")
